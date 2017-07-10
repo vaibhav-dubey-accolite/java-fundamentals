@@ -21,8 +21,7 @@ class AmericanFlag{
 		int starBoxHeight = 11;
 		int starBoxWidth = (int)(starBoxHeight*ratio);
 		char STAR = '*';
-		char CHAR1 = 219;
-		AmericanFlag obj = new AmericanFlag();
+		char CHAR1 = '=';
 						
 		System.out.println("Flag width= " + flagWidth);
 		System.out.println("\u0811123");
